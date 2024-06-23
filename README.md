@@ -43,3 +43,6 @@ Answer the following questions based on your understanding of the installation a
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by 1st July 
 
+#ANSWERS TO ASSIGNMENT 5: GOOGLE DOCS LINK
+
+https://docs.google.com/document/d/1Ak3oVOUosl7V4xPTUurHtfXvU62GIWtWeGRZ1MQyhXM/edit?usp=sharing
